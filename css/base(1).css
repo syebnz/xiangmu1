@@ -1,0 +1,129 @@
+.denglu{
+	background-image: url(../img/bg1.png);
+}
+.middle_11,.middle_13{
+	display: flex;
+	align-items: center;
+	border-radius: 10px;
+	background: rgba(233,245,241,0.5);
+}
+.middle_12{
+	background-image: url(../img/user.png);
+	background-size: contain;
+	width: 2.3rem;
+	height: 2.3rem;
+	background-position: left center;
+	border-right:  0.1rem solid white;
+	padding-right: 1.5rem;
+}
+.middle_14{
+	background-image: url(../img/locked.png);
+	background-size: contain;
+	width: 2.1rem;
+	height: 2.6rem;
+	background-position: left center;
+	border-right:  0.1rem solid white;
+	padding-right: 1.5rem;
+}
+
+
+.prtl{
+	position: relative;
+	top: 0.8rem;
+	left: 0.8rem;
+}
+
+
+.bgimg1{
+	background-image: url(../img/zhuce3user.png);
+	background-repeat: no-repeat;
+}
+.bgimg2{
+	background-image: url(../img/zhuce3id.png);
+	background-repeat: no-repeat;
+}
+.bgimg3{
+	background-image: url(../img/zhuce3shitidian.png);
+	background-repeat: no-repeat;
+}
+.bgimg4{
+	background-image: url(../img/zhuce3weizhi.png);
+	background-repeat: no-repeat;
+}
+.bgimg5{
+	background-image: url(../img/zhucexiangxi.png);
+	background-repeat: no-repeat;
+}
+.bgimg6{
+	background-image: url(../img/zhuceyinhang.png);
+	background-repeat: no-repeat;
+}
+.bgimg7{
+	background-image: url(../img/zhuce3kahao.png);
+	background-repeat: no-repeat;
+}
+.bgimg8{
+	background-image: url(../img/zhuce3wangdian.png);
+	background-repeat: no-repeat;
+}
+.bgimg9{
+	background-image: url(../img/zhuce3xiaolian.png);
+	background-repeat: no-repeat;
+}
+.bgimg10{
+	background-image: url(../img/zhuce3tuijianren.png);
+	background-repeat: no-repeat;
+}
+.bgimg11{
+	background-image: url(../img/shangjiabianhao.png);
+	background-repeat: no-repeat;
+}
+.bgimg11{
+	background-image: url(../img/dianhua.png);
+	background-repeat: no-repeat;
+}
+.zhucesj4{
+	background:#2eb8e6;
+}
+.zhucesjqueding{
+	width:100%;
+	height:2rem;
+	background: #fff;
+	color:#2eb8e6;
+	border-radius:5px;
+	font-size:16px;
+	border:none;
+}
+.dianjixiugai{
+	width:6rem;
+	height:2rem;
+	background: #3BB4E3;
+	color:#fff;
+	border-radius:5px;
+	font-size:16px;
+	border:none;
+}
+.wdcaifu{
+	width:40%;
+	height:2rem;
+	background: #3BB4E3;
+	color:#fff;
+	border-radius:5px;
+	font-size:16px;
+	border:none;
+}
+
+.fdj2{
+	background-image: url(../img/fangdaj2.png);
+	background-repeat: no-repeat;
+}
+.shitishangjia{
+	width: 100%;
+	height: 3rem;
+	color: white;
+	background: #3BB4E3;
+	border:none;
+	border-radius: 5px;
+	font-size: 1.7rem;
+	font-family: "微软雅黑";
+}
